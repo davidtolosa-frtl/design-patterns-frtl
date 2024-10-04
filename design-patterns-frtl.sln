@@ -7,6 +7,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Creacionales", "Creacionale
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AbstractFactory", "Creacionales\AbstractFactory\AbstractFactory.csproj", "{EBF7F59D-7EFE-473E-B574-65ABBAB05396}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AbstractFactoryVehiculos", "Creacionales\AbstractFactoryVehiculos\AbstractFactoryVehiculos.csproj", "{6885E76D-28B2-41A0-A134-6CE22B9FD53E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -17,12 +19,17 @@ Global
 		{EBF7F59D-7EFE-473E-B574-65ABBAB05396}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EBF7F59D-7EFE-473E-B574-65ABBAB05396}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EBF7F59D-7EFE-473E-B574-65ABBAB05396}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6885E76D-28B2-41A0-A134-6CE22B9FD53E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6885E76D-28B2-41A0-A134-6CE22B9FD53E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6885E76D-28B2-41A0-A134-6CE22B9FD53E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6885E76D-28B2-41A0-A134-6CE22B9FD53E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{EBF7F59D-7EFE-473E-B574-65ABBAB05396} = {8D5C1973-8E0A-4A98-ADD5-D21765EECA92}
+		{6885E76D-28B2-41A0-A134-6CE22B9FD53E} = {8D5C1973-8E0A-4A98-ADD5-D21765EECA92}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {8320DBE3-B5E9-4809-B778-9420F1B7B3B7}
